@@ -8,4 +8,4 @@ Based in Da Nang, Vietnam, we develop bespoke open-source platforms.
 
 ### [KeoScout](https://github.com/keo-platforms/keoscout)
 
-KeoScout is a recruitment platform for global agencies that helps creators monetize their personal brand.
+The easiest way to monetize your personal brand
