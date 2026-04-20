@@ -4,8 +4,8 @@
 
 Keo Platforms is a software development company based in Da Nang, Vietnam. We aim to provide a full set of tools that helps creators make the most of their personal brand.
 
-## Projects
+## Products
 
 ### [KeoScout](https://github.com/keo-platforms/keoscout)
 
-KeoScout is an open-source talent scouting and content monetization platform for global agencies.
+An open-source content monetization platform
