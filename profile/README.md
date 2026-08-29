@@ -2,5 +2,5 @@
 
 # Welcome to Keo Platforms
 
-We are developing [KeoScout](https://github.com/keo-platforms/keoscout), and open-source content monetization platform.
+We are developing [Keo](https://github.com/keo-platforms/keo), a new kind of blockchain for a new kind of platform.
 
